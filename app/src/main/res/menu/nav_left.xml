@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_left_update_profile"
+        android:icon="@drawable/ic_baseline_update_24"
+        android:title="Update Profile" />
+    <item
+        android:id="@+id/updateApp"
+        android:icon="@drawable/ic_baseline_update_24"
+        android:title="Update App" />
+
+    <item
+        android:id="@+id/nav_left_rate_app"
+        android:icon="@drawable/ic_star_half_black_24dp"
+        android:title="Rating &amp; Review" />
+    <item
+        android:id="@+id/nav_left_share_app"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Share App" />
+
+    <item
+        android:id="@+id/nav_left_developer"
+        android:icon="@drawable/ic_developer_mode_black_24dp"
+        android:title="Developer" />
+    <item
+        android:id="@+id/nav_left_feedback"
+        android:icon="@drawable/feedback"
+        android:title="Feedback" />
+
+</menu>

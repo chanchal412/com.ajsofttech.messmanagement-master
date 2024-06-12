@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="navLeftStyle">
+        <item name="android:textSize">13dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/open_sans</item>
+    </style>
+    <style name="tabLayoutStyle">
+        <item name="android:textSize">15dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:fontFamily">@font/open_sans</item>
+    </style>
+</resources>

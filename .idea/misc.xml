@@ -1,0 +1,29 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/drawable/tab_background_selected.xml" value="0.21666666666666667" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/drawable/tab_layout_selector.xml" value="0.21666666666666667" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/activity_register.xml" value="0.4" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/adapter_mess_list.xml" value="0.19166666666666668" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/adapter_myoders.xml" value="0.19166666666666668" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/adapter_rates_list.xml" value="0.19166666666666668" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/alert_review.xml" value="0.19166666666666668" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/fragment_customer1.xml" value="0.19166666666666668" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/fragment_cutomer.xml" value="0.19166666666666668" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/fragment_manager.xml" value="0.19166666666666668" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/fragment_manager1.xml" value="0.19166666666666668" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/fragment_my_jionedmess.xml" value="0.264" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/fragment_my_orders.xml" value="0.19166666666666668" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/inflater_loading.xml" value="0.19166666666666668" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/layout/inflater_make_payment.xml" value="0.19166666666666668" />
+        <entry key="..\:/ASUS SSD/Android/messManagement/app/src/main/res/menu/nav_left.xml" value="0.19166666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
